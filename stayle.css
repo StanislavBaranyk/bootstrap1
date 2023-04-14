@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.playfair {
+    font-family:  "Playfair Display", Georgia, "Times New Roman", serif;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;;
+
+}
+
+.border-r {
+    border-radius: 5px;
+}
+
+.post-item {
+    width: calc(50% - 20px);
+    padding: 0 10px;
+}
+
